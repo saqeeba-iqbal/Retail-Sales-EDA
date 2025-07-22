@@ -1,5 +1,5 @@
 #  Retail-Sales-EDA
-   Exploratory Data Analysis on retail sales using Python
+   Exploratory Data Analysis on retail sales using Python.
 An EDA project on retail sales data to identify trends in customer behavior, product performance, and sales growth.
 
 ---
