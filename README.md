@@ -1,5 +1,5 @@
-#  Exploratory Data Analysis - Retail Sales
-
+#  Retail-Sales-EDA
+   Exploratory Data Analysis on retail sales using Python
 An EDA project on retail sales data to identify trends in customer behavior, product performance, and sales growth.
 
 ---
@@ -13,38 +13,36 @@ An EDA project on retail sales data to identify trends in customer behavior, pro
 ---
 
 ##  Key Steps Performed
-
--  Data Preparation:
+     Data Preparation: 
   - Loaded CSV dataset using `pandas`
   - Checked data types and column names
   - Converted date to datetime format
   - Ensured data quality (cleaning & corrections)
-
--  Descriptive Statistics:
+     Descriptive Statistics:
   - Calculated mean, median, mode, std. deviation
   - Used `df.describe()` for overview
 
--  Time Series Analysis:
+      Time Series Analysis:
   - Set `Date` as index
   - Used `.resample("M")` to analyze monthly sales
   - Observed seasonal sales trends
 
--  Customer Insights:
+      Customer Insights:
   - Analyzed gender distribution
   - Studied customer age patterns
   - Identified purchase behavior trends
 
--  Product Analysis:
+      Product Analysis:
   - Found best-selling product categories
   - Compared quantity and price metrics
 
-- Data Visualization:
+       Data Visualization:
   - Bar plot: Sales by Product Category
   - Line plot: Monthly Sales Trend
   - Heatmap: Correlation between numeric fields
 
--  Recommendations:
-  - Focus marketing on dominant age/gender segments
+       Recommendations:
+   - Focus marketing on dominant age/gender segments
   - Promote best-selling products more
   - Offer discounts in low-performing months
 
