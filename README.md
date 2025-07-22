@@ -73,7 +73,7 @@ An EDA project on retail sales data to identify trends in customer behavior, pro
 
 ---
 
-##  Purpose of This Project
+##   Learning Objectives
 
 - Apply practical Exploratory Data Analysis (EDA) techniques on real-world retail data
 - Practice data cleaning, transformation, and visualization
